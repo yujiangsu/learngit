@@ -1,2 +1,2 @@
-Git is a version control syetem.
+Git is a distribution control syetem.
 git is free softwaro
